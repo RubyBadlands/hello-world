@@ -1,2 +1,3 @@
 # hello-world
-Short description of my repository
+
+Here, I write a bit about myself.
